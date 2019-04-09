@@ -4,4 +4,4 @@ testing a commit
 
 and adding some new info
 
-fixing feature
+fixing feature better
