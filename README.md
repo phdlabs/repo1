@@ -1,5 +1,5 @@
 # repo1
 
-testing a commit
+testing a commit now
 
 and adding some new info
